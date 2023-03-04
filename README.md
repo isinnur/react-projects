@@ -1,3 +1,4 @@
 | Project                                                                                                                     | Live           |   Corresponding                                                         |
  | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------|
 | [Birthday Reminder](https://github.com/isinnur/react-projects/tree/main/birthday-reminder)                       |    [1](https://fancy-blancmange-0191bb.netlify.app)|    useState|
+| [Tours](https://github.com/isinnur/react-projects/tree/main/tours)                       |    [2](https://harmonious-brigadeiros-fc6f6d.netlify.app)|    useEffect|
