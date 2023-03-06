@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  background-color: #0f1923;
+}
+.container {
+  width: 400px;
+  height: 600px;
+  margin: 40px 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.container .image {
+  position: relative;
+  width: 100%;
+  visibility: visible;
+}
+
+.container .image:hover {
+  opacity: 0.2;
+  border: 3px solid #111111;
+}
+
+.container .agents-name {
+  color: #ff4655;
+  font-size: 30px;
+}
+
+.container .infos {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  margin-top: 140px;
+  transition: opacity 0.2s ease-in-out;
+  width: 400px;
+  height: 500px;
+}
+
+.container .infos span {
+  color: #fff;
+  font-size: 24px;
+  margin-bottom: 2rem;
+  opacity: 0;
+}
+
+.image:hover + .infos span {
+  opacity: 1;
+}
+
+button {
+  position: absolute;
+  margin-top: 8rem;
+  outline: none;
+  border: none;
+  padding: 5px 8px;
+  border-radius: 3px;
+  background-color: #162431;
+  color: #fff;
+  width: 400px;
+}
