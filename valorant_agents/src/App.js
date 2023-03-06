@@ -17,12 +17,12 @@ function App() {
     <div className="App">
       {agents.map(agent => (
         <div className='container' key={agent.uuid}>
-          <button className='touch'></button>
+          <button className='touch'> <hr /></button>
           <h4 className='agents-name'>{agent.displayName}</h4>
           <img className='image' src={agent.fullPortrait} alt={agent.displayName}></img>
           <div className='infos'>
-            <span className='bio'>Biography: <br /> {agent.description}</span>
-            <span className='abilities'>Special Abilities: <br /> {agent.abilities.map(ability => ability.displayName).join(', ')}</span>
+            <span className='bio'>  Biography: <br /> <p> {agent.description}</p></span>
+            <span className='abilities'>Special Abilities: <br /><p> {agent.abilities.map(ability => ability.displayName).join(', ')}</p></span>
           </div>
         </div>
       ))}

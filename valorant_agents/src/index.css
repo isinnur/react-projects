@@ -47,14 +47,14 @@ body {
   display: flex;
   flex-direction: column;
   position: absolute;
-  margin-top: 140px;
+  margin-top: 160px;
   transition: opacity 0.2s ease-in-out;
   width: 400px;
   height: 500px;
 }
 
 .container .infos span {
-  color: #fff;
+  color: #ff4655;
   font-size: 24px;
   margin-bottom: 2rem;
   opacity: 0;
@@ -74,4 +74,20 @@ button {
   background-color: #162431;
   color: #fff;
   width: 400px;
+}
+
+button hr {
+  width: 200px;
+  height: 3px;
+  background-color: #fff;
+  border-radius: 50%;
+}
+
+.container span p {
+  font-size: 16px;
+  color: #fff;
+}
+
+.container span {
+  color: #ff4655;
 }
