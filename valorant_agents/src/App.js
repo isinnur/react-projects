@@ -26,7 +26,12 @@ function App() {
           </div>
         </div>
       ))}
+
+
+      <footer className='footer'>© 2023 - Işınnur Günay</footer>
     </div>
+
+
   );
 }
 
