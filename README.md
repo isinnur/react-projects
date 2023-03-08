@@ -8,4 +8,4 @@
 
 | Project                                                                                                                     | Live                                                                  |
  | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | 
- | [Valorant Game Agents](https://github.com/isinnur/react-projects/tree/main/valorant_agents)                       |    [1](https://valorant-agent-isinnurgunay.netlify.app/)|  
+ | [Valorant Game Agents](https://github.com/isinnur/react-projects/tree/main/valorant_agents)                       |    [1](valorant-agents-isinnurgunay.netlify.app)|  
