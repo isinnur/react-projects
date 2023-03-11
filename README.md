@@ -12,3 +12,4 @@
 | Project                                                                                                                     | Live                                                                  |
  | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | 
  | [Valorant Game Agents](https://github.com/isinnur/react-projects/tree/main/valorant_agents)                       |    [1](https://valorant-agents-s-isinnurgunay.netlify.app)|  
+ | [Emoji Search](https://github.com/isinnur/react-projects/tree/main/emoji-search)                       |    |  
