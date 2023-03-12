@@ -6,7 +6,7 @@
 | [Accordion](https://github.com/isinnur/react-projects/tree/main/accordion)                       |    [4](https://frolicking-llama-4d9e51.netlify.app)| Conditional Rendering   |
 | [Menu](https://github.com/isinnur/react-projects/tree/main/menu)                       |    [5](https://enchanting-eclair-322fef.netlify.app)|   |
 | [Tabs](https://github.com/isinnur/react-projects/tree/main/tabs)                       |    [6](https://helpful-elf-b8256e.netlify.app)|   |
-
+| [Lorem Ipsum](https://github.com/isinnur/react-projects/tree/main/lorem-ipsum)                       |    [7](https://fabulous-hotteok-8509a1.netlify.app)| Forms  |
 
 
 | Project                                                                                                                     | Live                                                                  |
