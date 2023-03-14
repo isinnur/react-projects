@@ -79,6 +79,7 @@ body {
   font-size: 24px;
   margin-bottom: 2rem;
   opacity: 0;
+  transition: opacity 0.2s ease-in-out;
 }
 
 .image:hover + .infos span {
@@ -120,4 +121,21 @@ footer {
   color: #fff;
   bottom: 0;
   opacity: 0.5;
+}
+
+.weapons h4 {
+  font-size: 24px;
+  color: #fff;
+  background-color: #162431;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  position: absolute;
+  margin-left: 93rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+.weapons h4:hover {
+  background-color: #ff4655;
+  transform: translate(2px);
 }
