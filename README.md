@@ -7,7 +7,7 @@
 | [Menu](https://github.com/isinnur/react-projects/tree/main/menu)                       |    [5](https://enchanting-eclair-322fef.netlify.app)|   |
 | [Tabs](https://github.com/isinnur/react-projects/tree/main/tabs)                       |    [6](https://helpful-elf-b8256e.netlify.app)|   |
 | [Lorem Ipsum](https://github.com/isinnur/react-projects/tree/main/lorem-ipsum)                       |    [7](https://fabulous-hotteok-8509a1.netlify.app)| Forms  |
-
+| [Color Generator](https://github.com/isinnur/react-projects/tree/main/color-generator)                       |    [8](https://spiffy-puppy-a4fd67.netlify.app)|   |
 
 | Project                                                                                                                     | Live                                                                  |
  | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | 
