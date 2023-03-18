@@ -11,7 +11,7 @@
 | [Glocery Bud](https://github.com/isinnur/react-projects/tree/main/glocery-bud)                       |    [9](https://resplendent-frangollo-ffb3c4.netlify.app)|   |
 | [Navbar](https://github.com/isinnur/react-projects/tree/main/navbar)                       |    [10](https://comforting-kelpie-40c416.netlify.app)|  useRef |
 | [Sidebar and Modal](https://github.com/isinnur/react-projects/tree/main/sidebar)                       |  11  |  useContext |
-| [Stripe](https://github.com/isinnur/react-projects/tree/main/stripe)                       | 12  |useContext |
+| [Stripe](https://github.com/isinnur/react-projects/tree/main/stripe)                       | 12  | |
 
 | Project                                                                                                                     | Live                                                                  |
  | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | 
