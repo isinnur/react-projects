@@ -9,7 +9,7 @@
 | [Lorem Ipsum](https://github.com/isinnur/react-projects/tree/main/lorem-ipsum)                       |    [7](https://fabulous-hotteok-8509a1.netlify.app)| Forms  |
 | [Color Generator](https://github.com/isinnur/react-projects/tree/main/color-generator)                       |    [8](https://spiffy-puppy-a4fd67.netlify.app)|   |
 | [Glocery Bud](https://github.com/isinnur/react-projects/tree/main/glocery-bud)                       |    [9](https://resplendent-frangollo-ffb3c4.netlify.app)|   |
-| [Navbar](https://github.com/isinnur/react-projects/tree/main/navbar)                       |    [10](https://comforting-kelpie-40c416.netlify.app)|  useRef |
+| [Navbar](https://github.com/isinnur/react-projects/tree/main/navbar)                       |    10|  useRef |
 | [Sidebar and Modal](https://github.com/isinnur/react-projects/tree/main/sidebar)                       |  11  |  useContext |
 | [Stripe](https://github.com/isinnur/react-projects/tree/main/stripe)                       | 12  | |
 
