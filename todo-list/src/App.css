@@ -1,0 +1,115 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
+* {
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: #fff;
+  display: flex;
+  background-color: #0d1117;
+  justify-content: center;
+  align-items: center;
+}
+
+.App {
+  margin-top: 30px;
+  text-align: center;
+  /* background-color: #050a3b; */
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.input {
+  margin-top: 20px;
+  width: 450px;
+  padding: 10px;
+  border-bottom-left-radius: 12px;
+  border-top-left-radius: 12px;
+  outline: none;
+  box-shadow: 0 5px 10px rgba(154, 160, 185, 0.05),
+    0 15px 40px rgba(0, 0, 0, 0.1);
+  background-color: #161b22;
+  border: none;
+  color: #fff;
+}
+
+.add {
+  padding: 10px;
+  border-bottom-right-radius: 12px;
+  border-top-right-radius: 12px;
+  margin-left: 10px;
+  outline: none;
+  border: 0;
+  cursor: pointer;
+  transition: 0.3s ease all;
+  background-color: #161b22;
+  color: #808080;
+  box-shadow: 0 5px 10px rgba(154, 160, 185, 0.05),
+    0 15px 40px rgba(0, 0, 0, 0.1);
+}
+
+.add:hover {
+  background-color: #11151b;
+}
+
+.list {
+  margin-top: 20px;
+}
+
+ul {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: start;
+}
+li {
+  width: 500px;
+  padding: 5px 20px;
+  list-style-type: none;
+  border-bottom: 4px solid #161b22;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  letter-spacing: 0.7px;
+}
+
+.icons {
+  cursor: pointer;
+  font-size: 18px;
+}
+.delete {
+  margin-right: 10px;
+}
+
+.edit {
+  margin-right: 10px;
+}
+
+.completed {
+  opacity: 0.5;
+  text-decoration: line-through;
+}
+.save-input {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  border-bottom: 2px solid #161b22;
+  color: #fff;
+}
+
+.save-btn {
+  margin-left: 20px;
+  background-color: transparent;
+  border-color: #161b22;
+  color: #fff;
+  padding: 7px;
+  border-radius: 12px;
+  cursor: pointer;
+}
